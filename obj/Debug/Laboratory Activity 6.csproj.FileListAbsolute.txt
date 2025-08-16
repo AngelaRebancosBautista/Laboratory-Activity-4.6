@@ -1,0 +1,7 @@
+C:\Users\alyssa\source\repos\Laboratory Activity 6\bin\Debug\Laboratory Activity 6.exe.config
+C:\Users\alyssa\source\repos\Laboratory Activity 6\bin\Debug\Laboratory Activity 6.exe
+C:\Users\alyssa\source\repos\Laboratory Activity 6\bin\Debug\Laboratory Activity 6.pdb
+C:\Users\alyssa\source\repos\Laboratory Activity 6\obj\Debug\Laboratory Activity 6.csproj.AssemblyReference.cache
+C:\Users\alyssa\source\repos\Laboratory Activity 6\obj\Debug\Laboratory Activity 6.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\Laboratory Activity 6\obj\Debug\Laboratory Activity 6.exe
+C:\Users\alyssa\source\repos\Laboratory Activity 6\obj\Debug\Laboratory Activity 6.pdb
